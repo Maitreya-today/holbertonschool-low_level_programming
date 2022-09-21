@@ -2,7 +2,7 @@
 /**
 *main - Entry Function
 *
-*Return: 0 - Standard Return
+* *Return: 0 - Standard Return
 */
 int main(void)
 {
