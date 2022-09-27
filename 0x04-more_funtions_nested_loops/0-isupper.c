@@ -1,15 +1,18 @@
 #include "main.h"
 /**
- * _isupper - check if letter is uppercase
- * @c: The number to check
- * Return: 1 for uppercase, 0 for anything else
+ *_isupper - Used to find total no. of uppercase in sentence
+ *@c: upper case
+ *
+ *Return: (1) if found and (0) if not
  */
-
 int _isupper(int c)
 {
 	if (c >= 'A' && c <= 'Z')
-	{
+
 		return (1);
-	}
-	return (0);
+
+	else
+
+		return (0);
+
 }
