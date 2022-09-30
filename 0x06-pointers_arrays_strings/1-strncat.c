@@ -1,21 +1,28 @@
 #include "holberton.h"
-
 /**
- * _strncat - function to concatenate strings
- * dest: s1
- * src: s2
- * n: number of bytes
- * Return: Always 0.
+ * @_strncat - function that concatenates two strings
+ * @dest: s1
+ * @src: s2
+ * @n: number of bytes
+ * Return: dest
  */
+
 char *_strncat(char *dest, char *src, int n)
 {
-	int a, b;
+	int a = 0, b = 0;
 
-	for (a = 0; dest[a] != '\0'; a++)
-		;
-	for (b = 0; b < n && src[b] != '\0'; b++)
+	while (dest[a] != '\0')
+	{
+		a++;
+	}
+	while (b < n)
 	{
 		dest[a + b] = src[b];
+		b++;
+		if (src[b] == '\0')
+		{
+			b = n;
+		}
 	}
 	return (dest);
 }
