@@ -4,7 +4,8 @@
 ## Description :teacher:
 How to manipulate bits and use bitwise operators.
 
-##Compilation :wrench:
+
+## Compilation :wrench:
 
 gcc -Wall -pedantic -Werror -Wextra -std=gnu89
 
