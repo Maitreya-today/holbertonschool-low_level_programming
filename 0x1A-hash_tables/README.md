@@ -1,4 +1,4 @@
-# 0x1A. C - Hash Tables :hash: :table: :table:
+# 0x1A. C - Hash Tables :hash::Chart::chart:
 
 
 ## Description :teacher:
