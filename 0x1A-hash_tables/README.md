@@ -57,5 +57,6 @@ Wiki  |  (https://en.wikipedia.org/wiki/Hash_function)
 Wiki  |  (https://en.wikipedia.org/wiki/Hash_table)
 
 
-### Author 
+### Author :memo::pencil:
+ 
 Clint Hendrickson | (https://github.com/Maitreya-today)
