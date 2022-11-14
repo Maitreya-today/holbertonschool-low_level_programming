@@ -1,4 +1,4 @@
-# 0x1A. C - Hash Tables :hash::Chart::chart:
+# 0x1A. C - Hash Tables :hash::bar_chart::chart:
 
 
 ## Description :teacher:
@@ -10,7 +10,7 @@
 5. What are the advantages and drawbacks of using hash tables
 6. What are the most common use cases of hash tables
 
-## Data Structures :books:
+## Data Structures :dna:
 
 ```
 /**
